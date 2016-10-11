@@ -1,0 +1,6 @@
+bump:
+  tag: true
+  push: true
+
+release:
+  host: https://gems.railsc.ru
