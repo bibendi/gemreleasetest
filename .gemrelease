@@ -1,6 +1,7 @@
 bump:
   tag: true
   release: true
+  host: https://gems.railsc.ru
 
 release:
   host: https://gems.railsc.ru
